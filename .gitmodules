@@ -1,0 +1,3 @@
+[submodule "subprojects/csp"]
+	path = subprojects/csp
+	url = https://github.com/spaceinventor/libcsp
